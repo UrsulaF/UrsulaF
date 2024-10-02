@@ -10,7 +10,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 
-### Featured Projects
+
 ### Featured Projects
 - [Deep Learning Brest Cancer](https://github.com/UrsulaF/deeplearning_brest_cancer): This project implements a neural network for binary classification of breast cancer using PyTorch. The model is designed to predict the likelihood of cancer based on various features from the dataset.
 
