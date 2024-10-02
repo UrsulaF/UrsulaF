@@ -11,9 +11,11 @@
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 
 ### Featured Projects
-- [Deep Learning Brest Cancer]([https://github.com/yourusername/project](https://github.com/UrsulaF/deeplearning_brest_cancer)): This project implements a neural network for binary classification of breast cancer using PyTorch. The model is designed to predict the likelihood of cancer based on various features from the dataset.
-  
-- [Chatboot Shark Conservation]([https://github.com/yourusername/anotherproject](https://github.com/UrsulaF/chatboot_sharks)): Twitter chatbot created to help shark conservation.
+### Featured Projects
+- [Deep Learning Brest Cancer](https://github.com/UrsulaF/deeplearning_brest_cancer): This project implements a neural network for binary classification of breast cancer using PyTorch. The model is designed to predict the likelihood of cancer based on various features from the dataset.
+
+- [Chatbot Shark Conservation](https://github.com/UrsulaF/chatboot_sharks): Twitter chatbot created to help shark conservation.
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UrsulaF&bg_color=000000&color=ffffff&line=2039cb&point=cbd3ec&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
