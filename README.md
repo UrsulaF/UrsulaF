@@ -17,7 +17,7 @@
 
 
 ### Featured Projects
-- [Deep Learning Brest Cancer](https://github.com/UrsulaF/deeplearning_brest_cancer): This project implements a neural network for binary classification of breast cancer using PyTorch. The model is designed to predict the likelihood of cancer based on various features from the dataset.
+- [Deep Learning Brest Cancer](https://github.com/UrsulaF/deeplearning_brest_cancer): This project implements a neural network for binary classification of breast cancer using PyTorch. 
 
 - [Chatbot Shark Conservation](https://github.com/UrsulaF/chatboot_sharks): Twitter chatbot created to help shark conservation.
 
